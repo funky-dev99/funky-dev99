@@ -1,5 +1,5 @@
 [![MasterHead](https://www.genesisit.co.uk/media/16301/appdev_banner.jpg)]
-<h1 align="center">Hi 👋, I'm Shairu Edirisinghe</h1>
+<h1 align="center">Hi 👋, I'm Shahiru Edirisinghe</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 
