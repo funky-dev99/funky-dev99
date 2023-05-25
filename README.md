@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Shahiru Edirisinghe</h1>
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
 
+
+[![](https://visitcount.itsvg.in/api?id=funky-dev99&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 💻 Trainee Frontend Developer at Corporate Business Solutions - CBS , Sri Lanka<br>📚 Currently learning : Flutter | Laravel Backend | PHP | Google API <br>🎓 Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus - SLTC 📡<br>📸 Photography | 🎮 Gaming <br>
 
@@ -27,7 +30,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=funky-dev99&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shahi.pay99@gmail.com) 
