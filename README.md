@@ -1,9 +1,9 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Shahiru Edirisinghe</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
 
 # 💫 About Me:
-💻 Trainee Frontend Developer at Corporate Business Solutions - CBS , Sri Lanka<br>📚 Currently learning : Flutter | Laravel Backend | PHP | Google API <br>🎓 Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡<br>📸 Photography | 🎮 Gaming <br>
+💻 Trainee Frontend Developer at Corporate Business Solutions - CBS , Sri Lanka<br>📚 Currently learning : Flutter | Laravel Backend | PHP | Google API <br>🎓 Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus - SLTC 📡<br>📸 Photography | 🎮 Gaming <br>
 
 
 ## 🌐 Socials:
