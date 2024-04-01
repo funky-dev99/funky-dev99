@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Shahiru Edirisinghe</h1>
-<h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Full-Stack Mobile App Developer from Sri Lanka.</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=funky-dev99&icon=0&color=0)](https://visitcount.itsvg.in)
